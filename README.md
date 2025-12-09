@@ -1,4 +1,6 @@
-# Accelerometry 📈
+Archived on GitHub and moved to https://git.sr.ht/~gary_moore/Accelerometry
+
+    # Accelerometry 📈
 
 A small app for iOS to send raw accelerometry data to a server over WebSocket.
 
